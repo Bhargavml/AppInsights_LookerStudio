@@ -1,6 +1,6 @@
-# 📊 App Insights Unlocked – Google Play Store Data Analysis
+# App Insights Unlocked – Google Play Store Data Analysis
 
-## 🔎 Project Overview
+## Project Overview
 
 **App Insights Unlocked** is a data analysis project based on Google Play Store app data.
 This project explores trends in app ratings, installs, categories, pricing, reviews, and size using Python and interactive dashboards in Looker Studio.
@@ -15,20 +15,20 @@ The objective is to uncover meaningful insights about:
 
 ---
 
-## 📁 Dataset Summary
+## Dataset Summary
 
-* 📦 Total Apps Analyzed: **9,659**
-* 🏷 Categories: **33**
-* ⭐ Average Rating: **4.19**
-* 👶 Most Common Content Rating: **Everyone**
-* 🆓 Free Apps: **8,904**
-* 💰 Paid Apps: **756**
+* Total Apps Analyzed: **9,659**
+* Categories: **33**
+* Average Rating: **4.19**
+* Most Common Content Rating: **Everyone**
+* Free Apps: **8,904**
+* Paid Apps: **756**
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
-### ⭐ Ratings & Reviews
+### Ratings & Reviews
 
 * Average App Rating: **4.19**
 * Correlation between Installs and Rating: **0.43**
@@ -41,9 +41,9 @@ The objective is to uncover meaningful insights about:
 
 ---
 
-### 📥 Installs & Popularity
+### Installs & Popularity
 
-#### 🔝 Top 5 Most Installed Apps
+#### Top 5 Most Installed Apps
 
 1. Subway Surfers – 5B installs
 2. Google Photos – 4B installs
@@ -51,7 +51,7 @@ The objective is to uncover meaningful insights about:
 4. Google Drive – 3B installs
 5. Google Chrome – 3B installs
 
-#### 📊 Categories with Highest Total Installs
+#### Categories with Highest Total Installs
 
 * Game – 31.5B
 * Communication – 24.2B
@@ -61,18 +61,18 @@ The objective is to uncover meaningful insights about:
 
 ---
 
-### 💰 Free vs Paid Apps
+### Free vs Paid Apps
 
 | Type | App Count | Avg Reviews |
 | ---- | --------- | ----------- |
 | Free | 8,904     | 437,373     |
 | Paid | 756       | 11,900      |
 
-✔ Free apps dominate the Play Store ecosystem in both volume and engagement.
+Free apps dominate the Play Store ecosystem in both volume and engagement.
 
 ---
 
-### 📦 App Size Insights
+### App Size Insights
 
 * Majority of apps fall under **0–20 MB**
 * App size has limited correlation with installs
@@ -80,7 +80,7 @@ The objective is to uncover meaningful insights about:
 
 ---
 
-### 📊 Install Range vs Average Rating
+### Install Range vs Average Rating
 
 | Install Range | Avg Rating |
 | ------------- | ---------- |
@@ -94,11 +94,11 @@ Apps with mid-to-high install ranges maintain strong ratings.
 
 ---
 
-## 📊 Interactive Dashboard (Looker Studio)
+## Interactive Dashboard (Looker Studio)
 
 An interactive dashboard was built to present insights visually and allow dynamic filtering.
 
-🔗 **Live Dashboard:**
+Live Dashboard:
 [https://lookerstudio.google.com/reporting/e2d355a2-e779-4c2f-a616-7a8573b823aa](https://lookerstudio.google.com/reporting/e2d355a2-e779-4c2f-a616-7a8573b823aa)
 
 The dashboard includes:
@@ -111,7 +111,7 @@ The dashboard includes:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 * Free apps dominate the marketplace.
 * Games generate the highest number of installs.
@@ -121,8 +121,7 @@ The dashboard includes:
 
 ---
 
-## 👤 Author
+## Author
 
 **Bhargav Kumar**
-Data Analyst | Python | Data Visualization
-
+Data Analyst 
