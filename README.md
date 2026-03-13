@@ -111,6 +111,12 @@ The dashboard includes:
 
 ---
 
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)
+
+---
+
 ## Conclusion
 
 * Free apps dominate the marketplace.
